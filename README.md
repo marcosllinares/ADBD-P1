@@ -1,11 +1,3 @@
----
-tipo: estudio
-area: cs
-estado: completado
-tags: [adbd, practica, postgresql, ull, sql, p1]
-creado: 2026-10-01
-actualizado: 2026-10-01
----
 
 # Práctica 1. Conceptos Fundamentales de PostgreSQL
 
